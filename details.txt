@@ -1,0 +1,4 @@
+username: admin@admin.com
+password: admin
+
+login location: footer
